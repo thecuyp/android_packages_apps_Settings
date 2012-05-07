@@ -1868,13 +1868,13 @@
     <string name="light_filter_window_title">Vensterlengte</string>
     <string name="light_filter_window_summary">Gefilterde waarde is de gemiddelde sensorwaarde tijdens deze periode</string>
     <string name="light_filter_reset_title">Drempelwaarde herstellen</string>
-    <string name="light_filter_reset_summary">Voorbeelden die te veel van het gemiddelde afwijken herstellen de filter</string>
+    <string name="light_filter_reset_summary">Voorbeelden die te veel van het gemiddelde afwijken herstellen het filter</string>
     <string name="light_filter_interval_title">Voorbeeldinterval</string>
-    <string name="light_filter_interval_summary">Lage waarden zijn preciezer maar belast de CPU meer</string>
+    <string name="light_filter_interval_summary">Lage waarden zijn preciezer maar belasten de CPU meer</string>
     <string name="light_levels_title">Lichtniveaus</string>
     <string name="light_levels_enabled_title">Gebruik eigen</string>
     <string name="light_levels_dim_title">Schermdim-niveaus</string>
-    <string name="light_levels_dim_summary">Helderheid gebreikt om het scherm te dimmen</string>
+    <string name="light_levels_dim_summary">Helderheid gebruikt om het scherm te dimmen</string>
     <string name="light_levels_editor_title">Andere niveaus bewerken\u2026</string>
     <string name="light_decrease_enabled_title">Sta lichtvermindering toe</string>
     <string name="light_decrease_enabled_summary">Schakel in om lichten te verminderen. Gebruik hysterese om flikkeren te verminderen</string>
