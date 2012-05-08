@@ -1724,7 +1724,7 @@
     <string name="profile_appgroup_manage">Beheer appgroep</string>
     <!-- Profile Settings sound mode label -->
     <string name="sound_mode">Notificatiemodus</string>
-    <string name="ringer_mode">Belmode</string>
+    <string name="ringer_mode">Belmodus</string>
     <string name="lights_mode">Lichtmodus</string>
     <string name="vibrate_mode">Trilmodus</string>
     <string name="choose_soundtone">Kies notificatietoon</string>
